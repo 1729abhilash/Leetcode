@@ -2,6 +2,9 @@
 //leetcode 1306
 //usiing bfs
 
+import java.util.LinkedList;
+import java.util.Queue;
+
 class Solution {
     public boolean canReach(int[] arr, int start) {
 
