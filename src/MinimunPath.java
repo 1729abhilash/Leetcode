@@ -10,7 +10,7 @@ public class MinimunPath {
 
 
 
-    public int minPathSum(int[][] grid) {
+    public static int minPathSum(int[][] grid) {
 
 
 
